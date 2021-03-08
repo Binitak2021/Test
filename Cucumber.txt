@@ -1,0 +1,2 @@
+difference between scenario and scenario outline
+the difference betweeen scenario and scenario outline is scenario outline is used for data driven testing which is used with examples key word where we pass the set of data ,here the particular scenario or the test case is run more than once with multiple set of data but in scenario it is used directly for a particular value here we can use data table to run a particular step to perform with diffent set of data
