@@ -1,0 +1,3 @@
+what is page object model ?
+ page object model is a approach which we follow in the project framework.In page object model we create a seperate class for each page .we locate all elements related to the page and define methods to perform actions on those elements .
+we also have a base class where we perform common operations related to different tests .we also have test class where we create the object of pages using pagefactory class which has initElements method which is used to iniitialize all the elements of the page class in the test class.To test the test case we integrate testNG.We also have pom.xml file where we define all the dependency.
