@@ -6,3 +6,7 @@ driver.switchTo().alert().dismiss();
 driver.switchTo().alert().accept();
 driver.switchTo().alert().sendKeys("");
 driver.switchTo().alert().getText();
+
+when two or different components work together to perform certain action in same pace .The coordination for the components to work together is called sysncronization.
+In selenium this can be achieved using wait commands 
+the different type of wait commands used are implicit wait,explicit wait,fluent wait.
